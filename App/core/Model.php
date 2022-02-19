@@ -1,4 +1,5 @@
 <?php
+namespace App\core;
 use PDO;
 class Model{
     private static $instance;
